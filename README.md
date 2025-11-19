@@ -1,91 +1,231 @@
-
-<!-- Banner / Header -->
+<!-- 🖼 Banner -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Masud+Rana;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+%F0%9F%92%99" />
+  <img 
+    src="./Purple Abstract Graphic Design LinkedIn Article Cover Image.png" 
+    alt="Masud Rana - Full-stack (MERN) Developer" 
+    width="100%" 
+  />
+</p>
+
+<!-- 🔡 Typing Header -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=800&center=true&vCenter=true&repeat=true&width=700&height=60&color=A78BFA&background=00000000&lines=Hi%2C+I'm+Masud+Rana;Junior+Frontend+%26+MERN+Stack+Developer;I+build+clean+and+responsive+web+apps"
+    alt="Typing introduction"
+  />
 </p>
 
 ---
 
-👨‍💻 About Me  
-I’m a motivated Junior Frontend Developer who enjoys turning ideas into modern, responsive user interfaces.  
-I care about clean, maintainable code and like building UIs that feel smooth, intuitive, and accessible.
+## 👨‍💻 About Me
+
+I’m a motivated **Junior Frontend & MERN Stack Developer** who enjoys turning ideas into modern, responsive user interfaces.  
+I care about **clean, maintainable code** and building UIs that feel **smooth, intuitive, and accessible**.
+
+- 🌍 Based in Bangladesh  
+- 💼 Currently focusing on **React**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**  
+- 🧠 Always exploring better patterns for **frontend architecture**, **state management**, and **UX**  
 
 ---
 
-🔥 What I’m Working On  
-- 🚀 Strengthening my skills with **React.js**, **Tailwind CSS**, **Node.js**, **Express.js** and **MongoDB**  
-- 📚 Learning best practices for **frontend performance**, **responsive design**, and **UI/UX patterns**  
-- 🧪 Building real-world projects to improve my problem-solving and code quality
+## 🔥 What I’m Working On
+
+- 🚀 Strengthening my skills with **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**  
+- 📚 Learning best practices for **performance**, **responsive design**, and **UI/UX patterns**  
+- 🧪 Building real-world projects to sharpen **problem-solving** and **code quality**  
 
 ---
 
-🎯 Goals  
+## 🎯 Goals
+
 - Become a **professional frontend engineer** who can ship production-ready interfaces  
 - Build **visually polished and highly functional web applications**  
-- Grow into a **full-stack (MERN) developer** capable of owning features end-to-end
+- Grow into a **full-stack (MERN) developer** capable of owning features end-to-end  
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100069416914519) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masud04052003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mr-a5694a382) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sukoonalqalb-c9v) 
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100069416914519)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/masud04052003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mr-a5694a382)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@sukoonalqalb-c9v)
 
 ---
 
 ## 🧠 Skills & Technologies
 
-| **Skill Category** | **Technologies** |
-|--------------------|------------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js" /> |
-| **Frontend Technologies** | <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" /> |
-| **Back-End Development** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,firebase,jwt,postman,vscode,figma" /> |
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python" />
+</p>
 
----
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
----
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=masudrana430&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=masudrana430&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masudrana430&theme=react-dark&hide_border=true" />
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,jwt,postman,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
+## 💻 Tech Stack (Highlights)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masudrana430&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=masudrana430&theme=tokyonight&hide_border=true" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=masudrana430&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Masud's GitHub stats" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=masudrana430&theme=tokyonight&hide_border=true" 
+    alt="Masud's GitHub streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana430&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top languages" 
+  />
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=masudrana430&theme=react-dark&hide_border=true" 
+    alt="Contribution graph" 
+  />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=masudrana430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=masudrana430&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8" 
+    alt="GitHub Trophies" 
+  />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Dev quote" 
+  />
+</p>
+
+---
+<!--  
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=masudrana430&icon=0&color=0" alt="Profile views" />
+</p>
+
+---
+-->
+
+## 🚀 Featured Projects
+
+### 🧹 ProCleaning – Community Clean-Up & Issue Reporting Platform
+**Tech:**  
+Frontend – React (Vite), React Router, Tailwind CSS, daisyUI, Lottie, Swiper, react-simple-typewriter, react-awesome-reveal  
+Backend – Node.js, Express.js, MongoDB  
+Auth & Utilities – Firebase Auth, JWT, jsPDF + jspdf-autotable, react-toastify  
+
+- Citizens can submit detailed issue reports with category, location, and budget.
+- Users can view and manage **My Issues** and **My Contributions** in a dedicated dashboard.
+- Supports community contributions and PDF receipts/reports for transparency.
+- Protected routes and JWT-based API calls ensure only authorized users can edit their own issues.
+
+🔗 **Live:** https://b12-a10-masud.netlify.app/  
+💻 **Code:** https://github.com/masudrana430/B12-Assignment10-Client-Side
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=masudrana430&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🐾 WarmPaws – Winter Pet Care & Adoption Experience
+**Tech:** React, React Router, Firebase Auth, Tailwind CSS, daisyUI, Swiper, Framer Motion, AOS, SweetAlert2  
+
+- Modern, responsive UI focused on pet care during winter.
+- Authentication and protected routes for user dashboards and actions.
+- Engaging animations, carousels, and scroll effects for a warm, friendly UX.
+- Uses SweetAlert2 for clean, user-friendly feedback and confirmation flows.
+
+🔗 **Live:** https://a09-category-rose.netlify.app/  
+💻 **Code:** https://github.com/masudrana430/a09-category-rose  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=masudrana430&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📱 HERO.IO – App Installation & Showcase Platform
+**Tech:** React, Tailwind CSS  
+
+- A clean, responsive landing-style site for **discovering and installing apps**.
+- Highlights multiple apps with clear CTAs to install or learn more.
+- Focus on marketing-style layout, visual hierarchy, and mobile-friendly design.
+- Demonstrates component-based UI, reusable sections, and consistent branding.
+
+🔗 **Live:** https://hero-apps-masud.netlify.app/  
+💻 **Code:** https://github.com/masudrana430/hero-app
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 💖 Support
+
+If you like my work:
+
+- ⭐ Star the repositories you find useful  
+- 📨 Connect with me on **LinkedIn** or **GitHub**  
+- 🙌 Share feedback or ideas — I’m always learning and improving  
+
+---
+
+<h3 align="center">🔥 Thank you for visiting my profile 💙</h3>
+<p align="center">Have a wonderful day and happy coding!</p>
