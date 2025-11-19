@@ -40,6 +40,22 @@ I care about clean, maintainable code and like building UIs that feel smooth, in
 ![](https://nirzak-streak-stats.vercel.app/?user=masudrana430&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+----
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AftabFarhanArko&theme=react-dark&hide_border=true" />
+</p>
+
+
+
+---
+### 📊 GitHub Analytics  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aftabfarhanarko&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabfarhanarko&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=masudrana430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
