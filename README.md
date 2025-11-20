@@ -108,7 +108,7 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
 
 <p align="center">
   <a 
-    href="https://resume-cv-website-of-masud.netlify.app/" 
+    href="https://masud-web-dev.netlify.app/" 
     target="_blank"
   >
     <img 
