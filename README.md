@@ -46,9 +46,9 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100069416914519)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/masud04052003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mr-a5694a382)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069416914519)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/masud04052003/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masudrana430)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@sukoonalqalb-c9v)
 
 ---
@@ -104,6 +104,23 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
 
 ---
 
+## 👀 Profile Views & Portfolio
+
+<p align="center">
+  <a 
+    href="https://resume-cv-website-of-masud.netlify.app/" 
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-4C1D95?style=for-the-badge&logo=netlify&logoColor=white" 
+      alt="Visit my portfolio website" 
+    />
+  </a>
+</p>
+
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -140,15 +157,15 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=masudrana430&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8" 
-    alt="GitHub Trophies" 
-  />
-</p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/masudrana430">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masudrana430&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masudrana430&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masudrana430&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masudrana430&theme=transparent" height="180em" />
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masudrana430&theme=transparent" height="180em" />
+</div>
 ---
 
 ## ✍️ Random Dev Quote
@@ -161,15 +178,9 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
 </p>
 
 ---
-<!--  
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=masudrana430&icon=0&color=0" alt="Profile views" />
-</p>
 
----
--->
+
 
 ## 🚀 Featured Projects
 
