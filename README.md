@@ -118,6 +118,22 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
   </a>
 </p>
 
+---
+
+## 👀 Resume Views 
+
+<p align="center">
+  <a 
+    href="https://docs.google.com/document/d/1m1MGJZYdt0f0yXs1XRNOE5W7neB8IT4--OXhdUTCkZo/edit?usp=sharing" 
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-4C1D95?style=for-the-badge&logo=netlify&logoColor=white" 
+      alt="View my Resume" 
+    />
+  </a>
+</p>
+
 
 ---
 
