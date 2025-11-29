@@ -128,7 +128,7 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
     target="_blank"
   >
     <img 
-      src="https://img.shields.io/badge/Visit%20My%20Portfolio-4C1D95?style=for-the-badge&logo=netlify&logoColor=white" 
+      src="https://img.shields.io/badge/View%20My%20Resume-4C1D95?style=for-the-badge&logo=netlify&logoColor=white" 
       alt="View my Resume" 
     />
   </a>
