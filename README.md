@@ -1,7 +1,7 @@
 <!-- 🖼 Banner -->
 <p align="center">
   <img 
-    src="./Purple Abstract Graphic Design LinkedIn Article Cover Image.png" 
+    src="./Blue Modern Corporate Staff Profile LinkedIn Banner.png" 
     alt="Masud Rana - Full-stack (MERN) Developer" 
     width="100%" 
   />
