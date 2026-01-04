@@ -201,6 +201,32 @@ I care about **clean, maintainable code** and building UIs that feel **smooth, i
 
 ## 🚀 Featured Projects
 
+### 🩸 BloodCare – Blood Donation Management & Funding Platform
+
+**Tech**:
+Frontend – React 18 (Vite), React Router DOM, Tailwind CSS, daisyUI, Lottie-react, React Icons, Axios (custom useAxiosSecure)
+Backend – Node.js, Express.js, MongoDB
+Auth & Payments – Firebase Authentication, JWT-protected APIs, ImgBB (avatar upload), Stripe (@stripe/react-stripe-js, @stripe/stripe-js), react-toastify
+
+Public users can explore the landing page and view all pending blood donation requests with a clean, responsive UI and theme toggle.
+
+Donors can create, edit, and delete their own donation requests, and track request status: pending, inprogress, done, canceled.
+
+Role-based dashboards for Donor / Volunteer / Admin with dynamic overview cards (total users, total funding, total requests).
+
+Admins can manage users (block/unblock, role changes) and admins/volunteers can manage all requests and update statuses.
+
+Secure funding module using Stripe Card Payments, plus a full funding history (amount + date) for transparency.
+
+Profile system includes dashboard profile data (blood group, district, upazila) and a public My Profile page to update Firebase name/photo.
+
+🔗 **Live**: https://give-a-life.netlify.app/
+
+💻 **Client Code**: https://github.com/masudrana430/GIVE_A_LIFE_clint
+
+🖥️ **Server Code**: https://github.com/masudrana430/GIVE_A_LIFE_server
+
+
 ### 🧹 ProCleaning – Community Clean-Up & Issue Reporting Platform
 **Tech:**  
 Frontend – React (Vite), React Router, Tailwind CSS, daisyUI, Lottie, Swiper, react-simple-typewriter, react-awesome-reveal  
