@@ -132,24 +132,61 @@ I’m a **Full-Stack Developer & Product Engineer** who loves turning complex pr
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- Core Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masudrana430&show_icons=true&theme=tokyonight&hide_border=true" alt="Masud's GitHub stats" />
-  <!-- Fixed Stable Streak Card -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=masudrana430&theme=tokyonight&hide_border=true" alt="Masud's GitHub streak" />
-</p>
+## 📊 GitHub Analytics & Contributions
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana430&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <!-- Theme-Synchronized Activity Graph -->
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudrana430&theme=tokyonight&hide_border=true" alt="Contribution graph" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Core Stats Card -->
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=masudrana430&show_icons=true&theme=tokyonight&hide_border=true" alt="Masud's GitHub stats" width="100%" />
+      </td>
+      <!-- Stable Streak Card (Bypasses Heroku Limits) -->
+      <td width="50%" align="center" valign="top">
+        <img src="https://streak-stats.demolab.com/?user=masudrana430&theme=tokyonight&hide_border=true" alt="Masud's GitHub streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Top Languages Card -->
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana430&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%" />
+      </td>
+      <!-- Unified Theme Activity Graph -->
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=masudrana430&theme=tokyonight&hide_border=true" alt="Contribution graph" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%">
+</p>
+
+<h3 align="center">📈 Detailed Repository Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/masudrana430" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masudrana430&theme=tokyonight" height="150em" alt="Summary Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masudrana430&theme=tokyonight" height="150em" alt="Commit Language Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masudrana430&theme=tokyonight" height="150em" alt="Repositories Language Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masudrana430&theme=tokyonight" height="150em" alt="Productive Time Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masudrana430&theme=tokyonight" height="150em" alt="Profile Details Card" />
+  </a>
+</div>
+  
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
 ## 📈 Extra Metrics & Productivity
 
 <p align="center">
