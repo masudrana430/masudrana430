@@ -135,12 +135,16 @@ I’m a **Full-Stack Developer & Product Engineer** who loves turning complex pr
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- Core Stats Card -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masudrana430&show_icons=true&theme=tokyonight&hide_border=true" alt="Masud's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masudrana430&theme=tokyonight&hide_border=true" alt="Masud's GitHub streak" />
+  <!-- Fixed Stable Streak Card -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=masudrana430&theme=tokyonight&hide_border=true" alt="Masud's GitHub streak" />
 </p>
 
 <p align="center">
+  <!-- Top Languages Card -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana430&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <!-- Theme-Synchronized Activity Graph -->
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudrana430&theme=tokyonight&hide_border=true" alt="Contribution graph" />
 </p>
 
