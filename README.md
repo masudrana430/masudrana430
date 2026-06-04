@@ -265,8 +265,9 @@ Profile system includes dashboard profile data (blood group, district, upazila) 
 
 ---
 
-🚚 myDelivery – Full-Stack Parcel Delivery Platform
-Tech:
+### 🚚 myDelivery – Full-Stack Parcel Delivery Platform
+
+**Tech**:
 Frontend – React, React Router, Tailwind CSS, Leaflet, Swiper, Framer Motion, Lucide React
 Backend – Node.js, Express.js, MongoDB
 Auth & Payments – Firebase Auth, Stripe, Axios
