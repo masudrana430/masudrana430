@@ -1,7 +1,7 @@
 <!-- 🖼 Banner -->
 <p align="center">
   <img 
-    src="./Blue Modern Corporate Staff Profile LinkedIn Banner.png" 
+    src="https://media.licdn.com/dms/image/v2/D5616AQH91zzGN2ocLA/profile-displaybackgroundimage-shrink_200_800/B56ZyaLUCCGwAU-/0/1772113183860?e=1782345600&v=beta&t=qUuWGB80ksgvUQGDnNP59Y6JCWdG4u1eB2vgqRg2VgE" 
     alt="Masud Rana - Full-stack (MERN) Developer" 
     width="100%" 
   />
