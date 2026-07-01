@@ -1,7 +1,7 @@
 <!-- 🖼 Banner -->
 <p align="center">
   <img 
-    src="https://media.licdn.com/dms/image/v2/D5616AQH91zzGN2ocLA/profile-displaybackgroundimage-shrink_200_800/B56ZyaLUCCGwAU-/0/1772113183860?e=1782345600&v=beta&t=qUuWGB80ksgvUQGDnNP59Y6JCWdG4u1eB2vgqRg2VgE" 
+    src="https://media.licdn.com/dms/image/v2/D5616AQH91zzGN2ocLA/profile-displaybackgroundimage-shrink_350_1400/B56ZyaLUCCGwAY-/0/1772113183860?e=1784764800&v=beta&t=GNwgCViY5Tau1nk49QH2EljWpp9KFxwcClOFAY1om4U" 
     alt="Masud Rana - Full-stack (MERN) Developer" 
     width="100%" 
   />
@@ -14,6 +14,14 @@
     alt="Typing introduction"
   />
 </p>
+
+---
+
+---
+
+### 🐍 My GitHub Contributions as Snake Game!
+
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -230,7 +238,7 @@ Smart location flow utilizing browser geolocation tracking, Leaflet maps, and re
 
 Production-ready commerce features including secure authentication, Stripe payment processing gateways, and structured product, order, and user management.
 
-🔗 **Live**: https://thomview-grocery.web.app/
+🔗 **Live**: https://thornview-grocery.web.app/
 
 💻 **Client Code**: https://github.com/masudrana430/Thornview-Grocery-client
 
